@@ -45,6 +45,8 @@ Nova Bank faces a dual challenge: approving loans to deserving customers while m
 
 
 
+
+
 ### Key Insights
 - **Income vs. Default**: Default rates decrease significantly with higher income. Borrowers earning over $105K have a default rate of just 3%, compared to 22% for those under $30K.
 - **Loan Grades**: Grade G loans show the highest default rates, indicating elevated risk.
