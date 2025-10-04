@@ -43,7 +43,7 @@ Nova Bank faces a dual challenge: approving loans to deserving customers while m
 
 <img width="3399" height="6000" alt="Untitled (2900 x 5120 px)" src="https://github.com/user-attachments/assets/194d1964-efe1-44f7-9e31-81d16cc5b6bd" />
 
-
+![Description of image](./4.JPG)
 
 
 
