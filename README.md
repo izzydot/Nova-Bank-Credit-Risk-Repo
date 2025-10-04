@@ -1,6 +1,6 @@
-# Nova-Bank-Credit-Risk-Repo
 
-# Credit Risk Analytics Report – Nova Bank
+
+# Credit Risk Analysis Report – Nova Bank
 
 ### Project Overview
 Nova Bank, a financial institution operating across the USA, UK, and Canada, seeks to optimize its lending strategy by balancing accessibility with financial risk. This project analyzes borrower data to uncover patterns in loan defaults, identify high-risk groups, and recommend data-driven lending policies that are both fair and protective.
